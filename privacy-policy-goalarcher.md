@@ -1,69 +1,40 @@
-# Kebijakan Privasi GoalArcher
+Kebijakan Privasi GoalArcher
+Berlaku dan terakhir diperbarui: 3 November 2026
 
-**Berlaku dan terakhir diperbarui: 3 November 2026**
-
-PT NIAGA GLOBAL ULTIMATE menyediakan **GoalArcher — Kalkulator Tujuan Keuangan**. Kebijakan ini menjelaskan cara aplikasi menangani data ketika Anda menggunakan kalkulator, menyimpan rencana, membuat laporan PDF, dan melihat iklan. Untuk pertanyaan privasi, hubungi **simple.orbit.app@gmail.com**.
-
-## Fungsi aplikasi dan data keuangan
-
+PT NIAGA GLOBAL ULTIMATE menyediakan GoalArcher — Kalkulator Tujuan Keuangan. Kebijakan ini menjelaskan cara aplikasi menangani data ketika Anda menggunakan kalkulator, menyimpan rencana, membuat laporan PDF, dan melihat iklan. Untuk pertanyaan privasi, hubungi simple.orbit.app@gmail.com.
+Fungsi aplikasi dan data keuangan
 GoalArcher membuat perkiraan tujuan keuangan dari angka yang Anda masukkan. Angka masukan, hasil perhitungan, dan rencana yang Anda pilih untuk disimpan diproses di perangkat Anda. GoalArcher tidak meminta akun atau login. Aplikasi tidak sengaja mengirim nilai rencana keuangan, masukan kalkulator, atau angka hasil Anda ke Google sebagai parameter penargetan atau permintaan iklan. Angka yang belum Anda simpan digunakan selama sesi aplikasi; rencana yang Anda simpan tetap berada di penyimpanan aplikasi pada perangkat.
-
-## Laporan PDF dan preferensi lokal
-
-Laporan PDF dibuat di perangkat dan disimpan ke lokasi yang Anda pilih melalui pemilih dokumen Android. Jika Anda membagikan file tersebut kemudian, aplikasi atau layanan penerima menangani salinan yang Anda bagikan menurut ketentuannya sendiri. GoalArcher menyimpan bahasa yang dipilih, rencana yang disimpan, dan tanda apakah satu kesempatan ekspor laporan gratis seumur instalasi telah digunakan. Setelah kesempatan gratis digunakan, ekspor berikutnya dapat dibuka dengan menonton iklan berhadiah. Tanda kesempatan gratis tidak dihapus oleh fitur **Hapus Data**.
-
-## Iklan dan pilihan privasi
-
+Laporan PDF dan preferensi lokal
+Laporan PDF dibuat di perangkat dan disimpan ke lokasi yang Anda pilih melalui pemilih dokumen Android. Jika Anda membagikan file tersebut kemudian, aplikasi atau layanan penerima menangani salinan yang Anda bagikan menurut ketentuannya sendiri. GoalArcher menyimpan bahasa yang dipilih, rencana yang disimpan, dan tanda apakah satu kesempatan ekspor laporan gratis seumur instalasi telah digunakan. Setelah kesempatan gratis digunakan, ekspor berikutnya dapat dibuka dengan menonton iklan berhadiah. Tanda kesempatan gratis tidak dihapus oleh fitur Hapus Data.
+Iklan dan pilihan privasi
 GoalArcher menggunakan Google Mobile Ads untuk menampilkan iklan native di beberapa area informasi/konten dan iklan berhadiah untuk ekspor laporan tambahan. Iklan membutuhkan koneksi internet. Google dapat mengumpulkan atau memproses alamat IP (yang dapat digunakan untuk memperkirakan lokasi umum), interaksi aplikasi dan iklan, informasi diagnostik, serta pengenal perangkat atau akun seperti ID iklan dan App Set ID, sesuai konfigurasi perangkat, aturan yang berlaku, dan pilihan persetujuan Anda. GoalArcher tidak mengirim angka keuangan Anda dalam permintaan iklan.
 
-GoalArcher menggunakan Google User Messaging Platform (UMP) untuk memperbarui status persetujuan pada setiap peluncuran aplikasi. Formulir Google ditampilkan hanya bila UMP memerlukannya. Jika UMP mewajibkan akses ulang ke pilihan privasi iklan, menu menampilkan **Pilihan Privasi Iklan** yang membuka formulir resmi Google. Pengolahan data oleh Google dijelaskan lebih lanjut dalam [Kebijakan Privasi Google](https://policies.google.com/privacy) dan [informasi Google tentang penggunaan data oleh situs atau aplikasi mitra](https://policies.google.com/technologies/partner-sites). Ketersediaan iklan dan pilihan persetujuan dapat berbeda menurut wilayah.
+GoalArcher menggunakan Google User Messaging Platform (UMP) untuk memperbarui status persetujuan pada setiap peluncuran aplikasi. Formulir Google ditampilkan hanya bila UMP memerlukannya. Jika UMP mewajibkan akses ulang ke pilihan privasi iklan, menu menampilkan Pilihan Privasi Iklan yang membuka formulir resmi Google. Pengolahan data oleh Google dijelaskan lebih lanjut dalam Kebijakan Privasi Google dan informasi Google tentang penggunaan data oleh situs atau aplikasi mitra. Ketersediaan iklan dan pilihan persetujuan dapat berbeda menurut wilayah.
+Penyimpanan, retensi, dan penghapusan
+Data rencana dan preferensi aplikasi disimpan secara lokal selama aplikasi terpasang, kecuali Anda menghapusnya. Anda dapat menghapus satu rencana dari kartunya atau seluruh rencana melalui Hapus Data. Fitur tersebut tidak mengatur ulang bahasa atau kesempatan ekspor gratis yang telah digunakan. Anda juga dapat menghapus penyimpanan aplikasi melalui pengaturan Android atau mencopot aplikasi untuk menghapus data GoalArcher yang tersimpan di perangkat. File PDF yang Anda simpan di lokasi pilihan Anda harus dihapus secara terpisah. Data yang diproses Google untuk iklan atau persetujuan tunduk pada kebijakan dan kontrol retensi Google, bukan pada fitur Hapus Data GoalArcher.
 
-## Penyimpanan, retensi, dan penghapusan
-
-Data rencana dan preferensi aplikasi disimpan secara lokal selama aplikasi terpasang, kecuali Anda menghapusnya. Anda dapat menghapus satu rencana dari kartunya atau seluruh rencana melalui **Hapus Data**. Fitur tersebut tidak mengatur ulang bahasa atau kesempatan ekspor gratis yang telah digunakan. Anda juga dapat menghapus penyimpanan aplikasi melalui pengaturan Android atau mencopot aplikasi untuk menghapus data GoalArcher yang tersimpan di perangkat. File PDF yang Anda simpan di lokasi pilihan Anda harus dihapus secara terpisah. Data yang diproses Google untuk iklan atau persetujuan tunduk pada kebijakan dan kontrol retensi Google, bukan pada fitur Hapus Data GoalArcher.
-
-Pencadangan aplikasi Android dinonaktifkan (`allowBackup=false`), dan aturan ekstraksi data mengecualikan data aplikasi dari cadangan awan dan transfer antarperangkat. GoalArcher tidak menyediakan sinkronisasi rencana ke server.
-
-## Layanan pihak ketiga dan keamanan
-
+Pencadangan aplikasi Android dinonaktifkan (allowBackup=false), dan aturan ekstraksi data mengecualikan data aplikasi dari cadangan awan dan transfer antarperangkat. GoalArcher tidak menyediakan sinkronisasi rencana ke server.
+Layanan pihak ketiga dan keamanan
 Google Mobile Ads dan Google UMP adalah layanan pihak ketiga yang dipakai untuk iklan dan pilihan persetujuan. GoalArcher menggunakan penyimpanan aplikasi Android dan pemilih dokumen sistem agar data lokal terlindungi oleh mekanisme perangkat. Kami berupaya menjaga aplikasi tetap aman, tetapi tidak dapat menjamin keamanan mutlak pada perangkat atau layanan pihak ketiga. Aplikasi ini ditujukan untuk pengguna yang merencanakan keuangan pribadi; orang tua atau wali sebaiknya mendampingi penggunaan oleh anak. Pernyataan ini bukan penetapan usia minimum atau pernyataan bahwa iklan ditujukan kepada anak.
+Perubahan dan kontak
+Kebijakan ini dapat diperbarui jika fitur, SDK, atau kewajiban hukum berubah. Tanggal pembaruan di atas akan diubah saat kebijakan diterbitkan ulang. Untuk pertanyaan tentang kebijakan atau data aplikasi, hubungi PT NIAGA GLOBAL ULTIMATE di simple.orbit.app@gmail.com.
+GoalArcher Privacy Policy
+Effective and last updated: 3 November 2026
 
-## Perubahan dan kontak
-
-Kebijakan ini dapat diperbarui jika fitur, SDK, atau kewajiban hukum berubah. Tanggal pembaruan di atas akan diubah saat kebijakan diterbitkan ulang. Untuk pertanyaan tentang kebijakan atau data aplikasi, hubungi **PT NIAGA GLOBAL ULTIMATE** di **simple.orbit.app@gmail.com**.
-
----
-
-# GoalArcher Privacy Policy
-
-**Effective and last updated: 3 November 2026**
-
-PT NIAGA GLOBAL ULTIMATE provides **GoalArcher — Kalkulator Tujuan Keuangan**. This policy explains how the app handles data when you use its calculators, save plans, create PDF reports, and view ads. For privacy questions, contact **simple.orbit.app@gmail.com**.
-
-## What the app does and financial information
-
+PT NIAGA GLOBAL ULTIMATE provides GoalArcher — Kalkulator Tujuan Keuangan. This policy explains how the app handles data when you use its calculators, save plans, create PDF reports, and view ads. For privacy questions, contact simple.orbit.app@gmail.com.
+What the app does and financial information
 GoalArcher estimates financial goals from figures you enter. Calculator inputs, results, and plans you choose to save are processed on your device. GoalArcher does not require an account or login. The app does not intentionally send your financial plan values, calculator inputs, or result figures to Google as ad targeting parameters or ad request payloads. Unsaved figures are used during the app session; saved plans remain in the app's storage on your device.
-
-## PDF reports and local preferences
-
-PDF reports are generated on your device and saved to the location you choose through Android's document picker. If you later share a file, the receiving app or service handles the copy you share under its own terms. GoalArcher stores your selected language, saved plans, and whether the one free report export available for the lifetime of an installation has been used. After the free export, further exports can be unlocked by watching a rewarded ad. **Delete Data** does not reset the free export status.
-
-## Advertising and privacy choices
-
+PDF reports and local preferences
+PDF reports are generated on your device and saved to the location you choose through Android's document picker. If you later share a file, the receiving app or service handles the copy you share under its own terms. GoalArcher stores your selected language, saved plans, and whether the one free report export available for the lifetime of an installation has been used. After the free export, further exports can be unlocked by watching a rewarded ad. Delete Data does not reset the free export status.
+Advertising and privacy choices
 GoalArcher uses Google Mobile Ads for native ads in selected information and content areas and rewarded ads for additional report exports. Ads require an internet connection. Depending on device settings, applicable rules, and your consent choices, Google may collect or process an IP address (which can indicate a general location), app and ad interactions, diagnostic information, and device or account identifiers such as the advertising ID and App Set ID. GoalArcher does not include your financial figures in ad requests.
 
-GoalArcher uses Google User Messaging Platform (UMP) to refresh consent information on every app launch. Google's form appears only when UMP requires it. When UMP requires a privacy options entry point, the app's **Ad Privacy Choices** menu action opens Google's official form. Google's handling of data is described further in the [Google Privacy Policy](https://policies.google.com/privacy) and [Google's information on data use by partner sites and apps](https://policies.google.com/technologies/partner-sites). Ad availability and consent choices may vary by region.
+GoalArcher uses Google User Messaging Platform (UMP) to refresh consent information on every app launch. Google's form appears only when UMP requires it. When UMP requires a privacy options entry point, the app's Ad Privacy Choices menu action opens Google's official form. Google's handling of data is described further in the Google Privacy Policy and Google's information on data use by partner sites and apps. Ad availability and consent choices may vary by region.
+Storage, retention, and deletion
+Plans and app preferences stay in local storage while the app is installed unless you delete them. You can delete one plan from its card or all saved plans with Delete Data. That action does not reset your selected language or used free export. You can also clear the app's storage in Android settings or uninstall the app to remove GoalArcher data stored on the device. PDFs saved to a location you chose must be deleted separately. Data processed by Google for ads or consent is subject to Google's policies and retention controls, not GoalArcher's Delete Data action.
 
-## Storage, retention, and deletion
-
-Plans and app preferences stay in local storage while the app is installed unless you delete them. You can delete one plan from its card or all saved plans with **Delete Data**. That action does not reset your selected language or used free export. You can also clear the app's storage in Android settings or uninstall the app to remove GoalArcher data stored on the device. PDFs saved to a location you chose must be deleted separately. Data processed by Google for ads or consent is subject to Google's policies and retention controls, not GoalArcher's Delete Data action.
-
-Android app backup is disabled (`allowBackup=false`), and data extraction rules exclude app data from cloud backup and device transfer. GoalArcher does not sync plans to a server.
-
-## Third-party services and security
-
+Android app backup is disabled (allowBackup=false), and data extraction rules exclude app data from cloud backup and device transfer. GoalArcher does not sync plans to a server.
+Third-party services and security
 Google Mobile Ads and Google UMP are third-party services used for ads and consent choices. GoalArcher uses Android app storage and the system document picker to benefit from device-level protections. We take reasonable care with the app, but cannot guarantee absolute security on a device or in third-party services. The app is intended for people planning personal finances; parents or guardians should supervise children's use. This statement does not establish a minimum age or claim that ads are directed to children.
-
-## Changes and contact
-
-This policy may change if features, SDKs, or legal requirements change. The update date above will change when a revised policy is published. For questions about the policy or app data, contact **PT NIAGA GLOBAL ULTIMATE** at **simple.orbit.app@gmail.com**.
+Changes and contact
+This policy may change if features, SDKs, or legal requirements change. The update date above will change when a revised policy is published. For questions about the policy or app data, contact PT NIAGA GLOBAL ULTIMATE at simple.orbit.app@gmail.com.
